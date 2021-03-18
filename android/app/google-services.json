@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658320649606",
+    "firebase_url": "https://coffepaste-13599.firebaseio.com",
+    "project_id": "coffepaste-13599",
+    "storage_bucket": "coffepaste-13599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658320649606:android:4ca6b0730f79313463d007",
+        "android_client_info": {
+          "package_name": "com.coffePaste.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658320649606-bhra9jetue5ldpkuldn414aohj8r2acd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTFLH05lK1qvLxJo7bo3rvbmcQkPzbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658320649606-bhra9jetue5ldpkuldn414aohj8r2acd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
